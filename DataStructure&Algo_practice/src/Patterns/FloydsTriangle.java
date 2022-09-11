@@ -1,5 +1,7 @@
 package Patterns;
 
+//  for the sum of even position row and column output is 1 and otherwise 0
+
 public class FloydsTriangle {
 	
 	
